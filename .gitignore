@@ -1,0 +1,8 @@
+# Project exclude paths
+/out/
+/servlet-01/target/
+/servlet-02-response/target/
+/servlet-03-cookie-session/target/
+/servlet-04-filter/target/
+/servlet-05-jdbc/target/
+/servlet-06-file/target/
